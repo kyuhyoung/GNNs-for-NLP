@@ -10,6 +10,7 @@ Slides can be downloaded from [here](https://shikhar-vashishth.github.io/assets/
 
 <img align="right"  src="./graph.jpeg">
 
+
 ### Dependencies
 
 - Compatible with PyTorch 1.x, TensorFlow 1.x and Python 3.x.
